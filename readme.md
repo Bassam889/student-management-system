@@ -67,3 +67,23 @@ src/
 ├── menu.rs      # Handles the menu and user interaction
 └── students.rs  # Contains student-related functionality
 ```
+## Contributing
+If you would like to contribute to this project:
+
+1. For the repository
+2. Create a new branch:
+```bash
+git checkout -b feature-name
+```
+3. Make your changes and commit them:
+```bash
+git commit -m "Description of changes"
+```
+4. Push to your fork:
+```bash
+git push origin feature-name
+```
+5. Open a pull request
+
+## Contact
+For any questions or feedback, please open an issue in the repository.
